@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class Program1
 {
 	public static void main(String[] args) {
 		List<String> s = List.of("babu","Neon","babgi","bagi","roja");
