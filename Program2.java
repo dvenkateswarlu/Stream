@@ -7,7 +7,5 @@ public class Program2 {
          .filter(str -> str.charAt(0) == 'b')  
          .map(s1 -> s1.toUpperCase())
          .forEach(i -> System.out.println(i));
-
-        System.out.println(s);
     }
 }
