@@ -11,8 +11,6 @@ public class Program6 {
 			.map(s -> s.toLowerCase())
 			.sorted( (s1,s2) -> s2.compareTo(s2))
 			.forEach(i -> System.out.println(i));
-			
-
 	}
 
 }
