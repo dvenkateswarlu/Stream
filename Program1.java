@@ -8,7 +8,6 @@ public class Program1
 		.map(s1 -> s1.toUpperCase())
 		.sorted((s1,s2) -> s2.compareTo(s1))
 		.forEach(i -> System.out.println(i));
-         
 		System.out.println(s);
 	}
 }
